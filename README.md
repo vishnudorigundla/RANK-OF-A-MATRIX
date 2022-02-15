@@ -18,13 +18,16 @@ Step 4:
 End the program.
 ## Program:-
 ```
+#Developed By : D.vishnu vardhan reddy
+#Reference Numbers : 21005311
 import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 sol=np.linalg.matrix_rank(a)
 print(sol)
 ```
 ## Output:
-![Matrixrank](/imge/rank.png)
+![rank](https://user-images.githubusercontent.com/94175324/154101735-13f493c8-ae6a-4f10-968a-fec6b5bd140a.png)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
